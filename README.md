@@ -1,7 +1,7 @@
 MATLAB-Projects
 ===============
 
-A collection of MATLAB projects focused on analyzing, testing, and experimenting with popular numerical methods.
+A collection of MATLAB projects focused on analyzing, testing, and experimenting with popular numerical methods and large datasets.
 
 Projects
 ========
